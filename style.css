@@ -1,0 +1,22 @@
+#login1,#login2{
+    text-align: center;
+    background-color:rgb(255, 255, 255) ;
+    float: none;
+    border-radius: 20px;
+    padding:10px;
+}
+body{
+    background-color: rgb(255, 147, 147);
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#p1_name, #p2_name{
+    font-size: 30px;
+    margin-left: 20px;
+}
